@@ -1,4 +1,5 @@
-﻿
+﻿//Tabla de multiplicar con FOR
+
 int numero, resultado;
 Console.WriteLine("Introduce el numero de la tabla de multiplicar que deseas: ");
 
