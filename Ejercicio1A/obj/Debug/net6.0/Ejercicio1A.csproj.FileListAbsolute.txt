@@ -1,0 +1,15 @@
+F:\C# Projects\Exercícios\Sessão 4\EjerciciosSesionQuatro\Ejercicio1A\bin\Debug\net6.0\Ejercicio1A.exe
+F:\C# Projects\Exercícios\Sessão 4\EjerciciosSesionQuatro\Ejercicio1A\bin\Debug\net6.0\Ejercicio1A.deps.json
+F:\C# Projects\Exercícios\Sessão 4\EjerciciosSesionQuatro\Ejercicio1A\bin\Debug\net6.0\Ejercicio1A.runtimeconfig.json
+F:\C# Projects\Exercícios\Sessão 4\EjerciciosSesionQuatro\Ejercicio1A\bin\Debug\net6.0\Ejercicio1A.dll
+F:\C# Projects\Exercícios\Sessão 4\EjerciciosSesionQuatro\Ejercicio1A\bin\Debug\net6.0\Ejercicio1A.pdb
+F:\C# Projects\Exercícios\Sessão 4\EjerciciosSesionQuatro\Ejercicio1A\obj\Debug\net6.0\Ejercicio1A.csproj.AssemblyReference.cache
+F:\C# Projects\Exercícios\Sessão 4\EjerciciosSesionQuatro\Ejercicio1A\obj\Debug\net6.0\Ejercicio1A.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Projects\Exercícios\Sessão 4\EjerciciosSesionQuatro\Ejercicio1A\obj\Debug\net6.0\Ejercicio1A.AssemblyInfoInputs.cache
+F:\C# Projects\Exercícios\Sessão 4\EjerciciosSesionQuatro\Ejercicio1A\obj\Debug\net6.0\Ejercicio1A.AssemblyInfo.cs
+F:\C# Projects\Exercícios\Sessão 4\EjerciciosSesionQuatro\Ejercicio1A\obj\Debug\net6.0\Ejercicio1A.csproj.CoreCompileInputs.cache
+F:\C# Projects\Exercícios\Sessão 4\EjerciciosSesionQuatro\Ejercicio1A\obj\Debug\net6.0\Ejercicio1A.dll
+F:\C# Projects\Exercícios\Sessão 4\EjerciciosSesionQuatro\Ejercicio1A\obj\Debug\net6.0\refint\Ejercicio1A.dll
+F:\C# Projects\Exercícios\Sessão 4\EjerciciosSesionQuatro\Ejercicio1A\obj\Debug\net6.0\Ejercicio1A.pdb
+F:\C# Projects\Exercícios\Sessão 4\EjerciciosSesionQuatro\Ejercicio1A\obj\Debug\net6.0\Ejercicio1A.genruntimeconfig.cache
+F:\C# Projects\Exercícios\Sessão 4\EjerciciosSesionQuatro\Ejercicio1A\obj\Debug\net6.0\ref\Ejercicio1A.dll
